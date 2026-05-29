@@ -14,7 +14,7 @@ A simple, responsive job application tracker built with HTML, Tailwind CSS, and 
 - Automatically updated summary counts
 - Empty state display when no jobs match the selected filter
 - Responsive layout for desktop and mobile screens
-![alt text](<Screenshot (25)-1.png>) ![alt text](<Screenshot (26)-1.png>) ![alt text](<Screenshot (27)-1.png>) ![alt text](<Screenshot (28)-1.png>) ![alt text](<Screenshot (29)-1.png>) ![alt text](<Screenshot (30)-1.png>)
+
 ## Tech Stack
 
 - **HTML5** — page structure
@@ -70,7 +70,7 @@ Click the trash icon on a job card to remove it from the list.
 ### 1. Clone or download the project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Khalid-Sifullah-Siam/job-application-tracker.git
 ```
 
 ### 2. Open the project
