@@ -1,4 +1,4 @@
-# Job Application Tracker
+![alt text](<Screenshot (25).png>) ![alt text](<Screenshot (26).png>) ![alt text](<Screenshot (27).png>) ![alt text](<Screenshot (28).png>) ![alt text](<Screenshot (29).png>) ![alt text](<Screenshot (30).png>)# Job Application Tracker
 
 A simple, responsive job application tracker built with HTML, Tailwind CSS, and vanilla JavaScript. This project helps users view a list of job opportunities, filter applications by status, update job statuses, and remove jobs from the list.
 
@@ -14,7 +14,7 @@ A simple, responsive job application tracker built with HTML, Tailwind CSS, and 
 - Automatically updated summary counts
 - Empty state display when no jobs match the selected filter
 - Responsive layout for desktop and mobile screens
-
+![alt text](<Screenshot (25)-1.png>) ![alt text](<Screenshot (26)-1.png>) ![alt text](<Screenshot (27)-1.png>) ![alt text](<Screenshot (28)-1.png>) ![alt text](<Screenshot (29)-1.png>) ![alt text](<Screenshot (30)-1.png>)
 ## Tech Stack
 
 - **HTML5** — page structure
@@ -33,6 +33,15 @@ A simple, responsive job application tracker built with HTML, Tailwind CSS, and 
 ├── Job Application Tracker.fig
 └── tailwind.config.js
 ```
+
+## Screenshots
+
+1. ![Screenshot 25](Images/Screenshot%20%2825%29.png)
+2. ![Screenshot 26](Images/Screenshot%20%2826%29.png)
+3. ![Screenshot 27](Images/Screenshot%20%2827%29.png)
+4. ![Screenshot 28](Images/Screenshot%20%2828%29.png)
+5. ![Screenshot 29](Images/Screenshot%20%2829%29.png)
+6. ![Screenshot 30](Images/Screenshot%20%2830%29.png)
 
 ## How It Works
 
